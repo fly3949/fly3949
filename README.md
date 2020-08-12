@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Fly3949.</h3>
 
-<!--
-**fly3949/fly3949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://fly.moe">Personal Page</a>&nbsp;•&nbsp;
+<a href="https://www.fly3949.com">Blog</a>&nbsp;•&nbsp;
+<a href="https://github.com/fly3949">GitHub</a>&nbsp;
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/fly3949">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fly3949&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default">
+    <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fly3949&layout=compact&count_private=true&theme=default">
+  </a>
+</p>
